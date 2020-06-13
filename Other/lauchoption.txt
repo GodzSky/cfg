@@ -1,0 +1,14 @@
+"LaunchOptions"		"-exec autoexec -language bananagaming -tickrate 128 -novid -nojoy"
+"LaunchOptions"		"+exec autoexec.cfg -novid -d3d9ex -tickrate 128 -nojoy -high +cl_forcepreload 1 -freq 60 -language bananagaming"
+
+X:\Path\To\Steam\userdata{YoursteamID3}\config\localconfig.vdf under:
+
+"Valve"
+{
+	"Steam"
+	{
+		"apps"
+		{
+			"730"
+			{
+				"LaunchOptions"		"..."
