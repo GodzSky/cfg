@@ -20,3 +20,5 @@
 	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
 }
+
+
