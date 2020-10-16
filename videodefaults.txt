@@ -22,4 +22,6 @@
 	"setting.mem_level"		"2"
 	"setting.defaultres"		"1920"
 	"setting.defaultresheight"		"1080"
+	"setting.r_player_visibility_mode"		"1"
+	"setting.mat_enable_uber_shaders"		"1"
 }
