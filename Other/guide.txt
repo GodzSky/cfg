@@ -1,0 +1,2 @@
+-Server favorite list:
+    replace content of serverbrowser_hist.vdf instead of favorite tag of \Steam\userdata\[STEAM_ID]\7\remote\serverbrowser_hist.vdf
