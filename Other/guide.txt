@@ -3,3 +3,23 @@
     replace content of serverbrowser_hist.vdf instead of favorite tag of \Steam\userdata\[STEAM_ID]\7\remote\serverbrowser_hist.vdf
     open cmd and run "copy serverbrowser_hist.vdf /B+ ,,/Y"
     open steam
+-LineupFinder:
+    copy .nut file into \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\scripts\vscripts
+-Launch options
+    copy options into tag LaunchOptions of path
+
+    options:
+        "LaunchOptions"		"-exec autoexec -language bananagaming -tickrate 128 -novid -nojoy"
+        "LaunchOptions"		"+exec autoexec.cfg -novid -d3d9ex -tickrate 128 -nojoy -high +cl_forcepreload 1 -freq 60 -language bananagaming"
+
+    path: X:\Path\To\Steam\userdata{YoursteamID3}\config\localconfig.vdf under:
+
+    tag:"Valve"
+        {
+            "Steam"
+            {
+                "apps"
+                {
+                    "730"
+                    {
+                        "LaunchOptions"		"..."
