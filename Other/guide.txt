@@ -1,2 +1,5 @@
 -Server favorite list:
+    close steam
     replace content of serverbrowser_hist.vdf instead of favorite tag of \Steam\userdata\[STEAM_ID]\7\remote\serverbrowser_hist.vdf
+    open cmd and run "copy serverbrowser_hist.vdf /B+ ,,/Y"
+    open steam
