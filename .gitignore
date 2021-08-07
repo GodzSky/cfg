@@ -3,3 +3,5 @@ config.cfg
 videodefaults.txt
 video.txt
 autoexec.cfg
+prac_cfg_default_pre.cfg
+prac_cfg_default_post.cfg
