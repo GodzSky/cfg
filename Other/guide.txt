@@ -9,8 +9,8 @@
     copy options into tag LaunchOptions of path
 
     options:
-        "LaunchOptions"		"+exec autoexec -tickrate 128 -novid -nojoy -refresh 144"
-        "LaunchOptions"		"+exec autoexec -tickrate 128 -novid -nojoy -refresh 144 -d3d9ex -high +cl_forcepreload 1"
+        "LaunchOptions"		"+exec autoexec -novid -nojoy -refresh 144"
+        "LaunchOptions"		"+exec autoexec -novid -nojoy -refresh 144 -d3d9ex -high +cl_forcepreload 1"
 
     path: X:\Path\To\Steam\userdata{YoursteamID3}\config\localconfig.vdf under:
 
